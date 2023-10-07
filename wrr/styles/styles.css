@@ -1,0 +1,106 @@
+div{
+    max-width: 1600px;
+    margin: 0 auto;
+}
+
+
+nav a {
+    background-color: #835d91; 
+
+    text-align: center;
+}
+
+section {
+    text-align: center;
+}
+
+h1 {
+    text-align: center;
+}
+
+h4{
+    text-align: center;
+}
+
+main{
+    text-align: center;
+}
+
+.button box {
+    text-align: center;
+    color: #f6f7f7;
+    text-decoration: none;
+}
+
+.msg {
+    background-color: #bd93bd; 
+
+    text-align: center;
+}
+
+body {
+    background-color: #ffffff; 
+}
+
+header{
+    background-color: #bd93bd; 
+}
+
+nav a {
+    text-align: center;
+    color: #f6f7f7;
+    text-decoration: none;
+} 
+
+footer {
+    background-color: #bd93bd; 
+    color: #f6f7f7;
+    text-decoration: none;
+}
+
+.join {
+    color: #835d91;
+    text-decoration: none;   
+}
+
+footer p {
+    font-size: 2.5em;
+}    
+
+.logo{
+    width:80px;
+}
+
+.rivers{
+    width:80px;
+}
+
+.rapids{
+    width:80px;
+}
+
+.camping{
+    width:80px;
+}
+
+.facebook{
+    width:80px;
+   
+}
+
+.instagram{
+    width:80px;
+   
+}
+
+.tweeter{
+    width:80px;
+    
+}
+
+footer p a:hover {
+    text-decoration: underline;
+    
+}    
+
+
