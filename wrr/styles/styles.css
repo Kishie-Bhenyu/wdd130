@@ -1,6 +1,7 @@
 div{
     max-width: 1600px;
     margin: 0 auto;
+    
 }
 
 
@@ -8,6 +9,7 @@ nav a {
     background-color: #835d91; 
 
     text-align: center;
+    padding: 30px;
 }
 
 section {
@@ -16,11 +18,23 @@ section {
 
 h1 {
     text-align: center;
+    font-family: 'Playfair Display', serif;
+    
 }
 
 h4{
     text-align: center;
+    font-family: 'Roboto', sans-serif;
 }
+
+h2{
+    font-family: 'Roboto', sans-serif;
+    margin: 0;
+    padding: 15px 20px;
+    margin-top: 30px;
+ 
+}
+
 
 main{
     text-align: center;
@@ -34,22 +48,29 @@ main{
 
 .msg {
     background-color: #bd93bd; 
-
     text-align: center;
+    font-size: 2em;
+    padding: 30px;
 }
 
 body {
     background-color: #ffffff; 
+    margin: 0;
+    padding: 0;
 }
 
 header{
     background-color: #bd93bd; 
+    font-size: 2em;
+
+
 }
 
 nav a {
     text-align: center;
     color: #f6f7f7;
     text-decoration: none;
+    padding: 15px;
 } 
 
 footer {
@@ -58,17 +79,29 @@ footer {
     text-decoration: none;
 }
 
-.join {
+.book, .join {
+    
     color: #835d91;
     text-decoration: none;   
+    font-family: 'Tilt Neon', sans-serif;
+    font-size: 18px;
+    padding: 10px 15px;
+    margin-top: 50px;
+    border-radius: 5px;
+    background-color: #100c2f
+
 }
 
 footer p {
     font-size: 2.5em;
+    font-family: 'Tilt Neon', sans-serif;
+    padding: 15px 30px;
+
 }    
 
 .logo{
     width:80px;
+
 }
 
 .rivers{
@@ -103,4 +136,16 @@ footer p a:hover {
     
 }    
 
+p{font-family: 'Tilt Neon', sans-serif;
+    font-size: 18px;
+}
 
+a{font-size: 18px;}
+
+.card-img {
+    border: 10px solid #171355;
+}
+main section img {
+    box-sizing: border-box;
+}
+   
